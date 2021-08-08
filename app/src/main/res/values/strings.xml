@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">QueryMovieContentProvider</string>
+    <string name="button_execute">Retrieve</string>
+    <string name="default_movie_id">522478</string>
 </resources>
